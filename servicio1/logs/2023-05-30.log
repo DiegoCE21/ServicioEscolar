@@ -1,0 +1,99 @@
+[30-May-2023 10:34:22 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[30-May-2023 10:34:22 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 10:34:22 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 10:58:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasEmpresa::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 10:58:00 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDO' has no effect in C:\xampp\htdocs\servicio1\models\programasempresamodel.php on line 2
+[30-May-2023 10:58:00 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'PDOException' has no effect in C:\xampp\htdocs\servicio1\models\programasempresamodel.php on line 3
+[30-May-2023 10:58:00 America/Mexico_City] PHP Warning:  The use statement with non-compound name 'Model' has no effect in C:\xampp\htdocs\servicio1\models\programasempresamodel.php on line 4
+[30-May-2023 10:58:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasEmpresaModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 10:58:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasEmpresa::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 10:58:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 10:58:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 10:58:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 10:58:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 10:58:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 10:58:10 America/Mexico_City] PHP Warning:  Undefined array key "id_programa" in C:\xampp\htdocs\servicio1\controllers\programasalumno.php on line 21
+[30-May-2023 10:58:10 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\controllers\programasalumno.php on line 22
+[30-May-2023 10:58:10 America/Mexico_City] PHP Warning:  Undefined array key "id_escuela" in C:\xampp\htdocs\servicio1\controllers\programasalumno.php on line 23
+[30-May-2023 10:58:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 10:58:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 10:58:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 10:58:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 10:58:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:02:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:02:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:02:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:02:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:03:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:03:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:03:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:03:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:05:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:05:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:05:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:05:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:10:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:10:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:10:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:10:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:18:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:18:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:18:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:18:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:19:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:19:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:19:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:19:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:42:34 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[30-May-2023 11:42:34 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:42:34 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:42:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:42:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:42:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:42:55 America/Mexico_City] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 8
+[30-May-2023 11:42:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:42:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:42:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined array key "semestre_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined array key "carrera" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[30-May-2023 11:42:57 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[30-May-2023 11:42:57 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[30-May-2023 11:42:57 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:42:57 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:42:57 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:42:57 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:43:03 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Perfil::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:03 America/Mexico_City] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\servicio1\controllers\perfil.php on line 8
+[30-May-2023 11:43:03 America/Mexico_City] PHP Deprecated:  Creation of dynamic property PerfilModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:03 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Perfil::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:43:03 America/Mexico_City] PHP Deprecated:  Creation of dynamic property PerfilModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:05 America/Mexico_City] PHP Warning:  Undefined array key "nombre_empresa" in C:\xampp\htdocs\servicio1\models\perfilmodel.php on line 61
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Perfil::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:05 America/Mexico_City] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\servicio1\controllers\perfil.php on line 8
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property PerfilModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Perfil::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property PerfilModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:43:07 America/Mexico_City] PHP Warning:  Undefined array key "nombre_empresa" in C:\xampp\htdocs\servicio1\models\perfilmodel.php on line 61
+[30-May-2023 11:43:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:43:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:43:13 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:13 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:13 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:43:13 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:17 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[30-May-2023 11:43:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[30-May-2023 11:43:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[30-May-2023 11:43:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[30-May-2023 11:43:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property ProgramasAlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9

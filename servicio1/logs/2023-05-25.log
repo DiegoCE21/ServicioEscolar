@@ -1,0 +1,481 @@
+[25-May-2023 00:54:40 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 00:54:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Login::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 00:54:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property LoginModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 00:54:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Login::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 00:54:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:28:37 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "usuario" not found in C:\xampp\htdocs\servicio1\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\servicio1\index.php(50): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\servicio1\libs\app.php on line 33
+[25-May-2023 01:28:42 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:28:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:28:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:28:55 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:28:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:28:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:28:59 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:28:59 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:28:59 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:29:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:29:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:29:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:29:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:29:38 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:29:38 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:29:38 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:29:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:29:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:30:48 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:30:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:30:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:30:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:30:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:31:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:31:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:31:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:31:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:31:11 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:31:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:31:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:31:17 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:31:17 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:31:22 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:31:22 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:34:47 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:34:47 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:34:49 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:34:49 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:34:49 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:34:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:34:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:35:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "usuario" not found in C:\xampp\htdocs\servicio1\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\servicio1\index.php(50): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\servicio1\libs\app.php on line 33
+[25-May-2023 01:35:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "usuario" not found in C:\xampp\htdocs\servicio1\libs\app.php:33
+Stack trace:
+#0 C:\xampp\htdocs\servicio1\index.php(50): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\servicio1\libs\app.php on line 33
+[25-May-2023 01:35:38 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:35:38 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:35:38 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:35:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:35:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:36:12 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 01:36:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:36:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:36:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:36:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:36:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:36:40 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 01:36:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 01:36:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:03:11 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:03:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioControlador::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:03:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:03:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:03:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:39:56 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:39:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class "UsuarioControlador" not found in C:\xampp\htdocs\servicio1\libs\app.php:22
+Stack trace:
+#0 C:\xampp\htdocs\servicio1\index.php(50): App->__construct()
+#1 {main}
+  thrown in C:\xampp\htdocs\servicio1\libs\app.php on line 22
+[25-May-2023 02:40:32 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:40:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:40:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:40:36 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:40:36 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:40:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:40:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:42:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:42:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:42:12 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:42:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:42:12 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:42:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:42:15 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:43:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:43:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:43:08 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:43:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:43:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:43:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:43:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:44:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:44:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:44:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:44:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:20 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:45:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:23 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:23 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:43 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:45:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:56 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:45:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:45:59 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:45:59 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:46:14 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:46:14 America/Mexico_City] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 15
+[25-May-2023 02:46:14 America/Mexico_City] PHP Warning:  Undefined array key "contrasena" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 16
+[25-May-2023 02:46:14 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:47:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:47:07 America/Mexico_City] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 15
+[25-May-2023 02:47:07 America/Mexico_City] PHP Warning:  Undefined array key "contrasena" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 16
+[25-May-2023 02:47:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:47:14 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:47:14 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:47:14 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:47:14 America/Mexico_City] PHP Warning:  require(views/views/login/index.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\libs\view.php on line 14
+[25-May-2023 02:47:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Failed opening required 'views/views/login/index.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\libs\view.php:14
+Stack trace:
+#0 C:\xampp\htdocs\servicio1\controllers\usuario.php(11): View->render('views/login/ind...')
+#1 C:\xampp\htdocs\servicio1\libs\app.php(24): Usuario->render()
+#2 C:\xampp\htdocs\servicio1\index.php(50): App->__construct()
+#3 {main}
+  thrown in C:\xampp\htdocs\servicio1\libs\view.php on line 14
+[25-May-2023 02:47:29 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:47:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:47:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:47:33 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:47:33 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:47:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:47:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:48:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:48:05 America/Mexico_City] PHP Warning:  Undefined array key "correo" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 15
+[25-May-2023 02:48:05 America/Mexico_City] PHP Warning:  Undefined array key "contrasena" in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 16
+[25-May-2023 02:48:05 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:48:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:48:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:48:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 02:48:07 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined array key "semestre_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined array key "carrera" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined array key "imagen" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 02:48:09 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 02:48:09 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 02:51:11 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:51:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:51:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:51:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:51:21 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:51:30 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:51:30 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:51:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:51:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:51:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 02:51:32 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined array key "semestre_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined array key "carrera" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined array key "imagen" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 02:51:34 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 02:51:34 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 02:57:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:57:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:57:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 02:57:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined array key "semestre_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined array key "carrera" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined array key "imagen" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 02:57:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 02:57:46 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 02:57:50 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 02:57:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:57:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:57:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:57:53 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:57:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Asesor::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:57:55 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 13
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 14
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 28
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 28
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined array key "dato" in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 43
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 87
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 89
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 91
+[25-May-2023 02:57:55 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\asesor\index.php on line 95
+[25-May-2023 02:58:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:58:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:58:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:58:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:58:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 02:58:08 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined array key "id_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined array key "semestre_estudiante" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined array key "telefono" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined array key "carrera" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined array key "imagen" in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 02:58:10 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 02:58:10 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 02:58:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:58:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 02:58:28 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Empresa::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 02:58:28 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 12
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 13
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 27
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 27
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined array key "dato" in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 35
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 78
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 81
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 84
+[25-May-2023 02:58:28 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\empresa\index.php on line 87
+[25-May-2023 03:00:06 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 03:00:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:00:06 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:00:09 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:00:09 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:00:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:00:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:00:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:00:11 America/Mexico_City] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 10
+[25-May-2023 03:00:11 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 10
+[25-May-2023 03:00:11 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:00:13 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:00:13 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 03:01:42 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 03:01:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:01:42 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:01:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:01:46 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:01:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:01:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:01:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:01:48 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 03:01:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:01:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:01:50 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 03:04:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:04:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:04:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:04:20 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 03:04:20 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:04:22 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:04:22 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 03:04:26 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 03:04:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:04:26 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:04:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:04:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:04:45 America/Mexico_City] PHP Warning:  Undefined array key 4 in C:\xampp\htdocs\servicio1\controllers\usuario.php on line 24
+[25-May-2023 03:04:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:04:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:04:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:04:45 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 03:04:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:04:47 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:04:47 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 03:05:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:05:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:05:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:05:43 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 03:05:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:05:44 America/Mexico_City] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\servicio1\libs\app.php on line 9
+[25-May-2023 03:05:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:05:44 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:05:45 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:05:45 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 03:05:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:05:48 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:05:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 03:05:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:05:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 03:05:50 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 03:05:50 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 03:05:52 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 03:05:52 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 10:07:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Usuario::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 10:07:56 America/Mexico_City] PHP Deprecated:  Creation of dynamic property UsuarioModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 10:07:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 10:07:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 10:07:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 10:07:58 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 10:07:58 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 10:08:00 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 10:08:00 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 11:37:27 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 11:37:27 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 11:37:27 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 11:37:27 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 11:37:27 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 11:37:29 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 11:37:29 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 11:37:41 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 11:37:41 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 11:37:41 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Alumno::$model is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 16
+[25-May-2023 11:37:41 America/Mexico_City] PHP Warning:  Undefined array key "id_relacion" in C:\xampp\htdocs\servicio1\controllers\alumno.php on line 12
+[25-May-2023 11:37:41 America/Mexico_City] PHP Deprecated:  Creation of dynamic property AlumnoModel::$db is deprecated in C:\xampp\htdocs\servicio1\libs\model.php on line 9
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 73
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 74
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 75
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 76
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 77
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 78
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 79
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\servicio1\models\alumnomodel.php on line 80
+[25-May-2023 11:37:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 13
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 14
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  include(views/apple_touch_icons.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  include(): Failed opening 'views/apple_touch_icons.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 28
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 80
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 82
+[25-May-2023 11:37:43 America/Mexico_City] PHP Warning:  Undefined variable $urlConstant in C:\xampp\htdocs\servicio1\views\alumno\index.php on line 86
+[25-May-2023 11:37:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 11:37:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
+[25-May-2023 11:37:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property Errores::$view is deprecated in C:\xampp\htdocs\servicio1\libs\controller.php on line 6
+[25-May-2023 11:37:43 America/Mexico_City] PHP Deprecated:  Creation of dynamic property View::$d is deprecated in C:\xampp\htdocs\servicio1\libs\view.php on line 9
